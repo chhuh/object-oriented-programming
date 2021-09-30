@@ -1,0 +1,41 @@
+(a)
+15점 
+클래스별 주석 작성 완료
+
+(b)
+20점
+Superclass : 사용(Point)
+Subclass : 사용(StartPoint, TravelPoint)
+Abstractclass : 사용(Point)
+Interfaceclass : 사용(Get, Autocloseable)
+
+(c)
+10점
+Point class에서 사용
+(
+private String Name;	
+protected int Time;
+)
+
+(d)
+10점
+overloadin사용(Point내의 set)
+overriding사용(compare, getName, getTime, close)
+
+(e)
+5점
+사용함
+
+(f)
+15점
+Polymorphism : Point로 만든 동적배열에서 사용
+Inheritance : StartPoint, TravelPoint가 Point를 상속
+Encapsulation : getter, setter함수
+
+(g)
+5점
+ArrayList만 사용
+
+(h)
+50점
+모두 통과
